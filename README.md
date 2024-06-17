@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning Power BI dashboard and SQL
 
-- 
+
 
 <!---
 Shubham121299/Shubham121299 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
