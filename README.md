@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning advanced data analytics and SQL
 - 💞️ I’m looking to collaborate on building data analysis algorithms and models
-- 📫 How to reach me mbalukaderrik@gmail.com
+- 📫 How to reach me shubhmahajan1999@gmail.com
 
 
 
