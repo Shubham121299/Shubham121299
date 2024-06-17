@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Shubham121299
-- 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning Power BI dashboard and SQL
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning advanced data analytics and SQL
+- 💞️ I’m looking to collaborate on building data analysis algorithms and models
+- 📫 How to reach me mbalukaderrik@gmail.com
 
 
 
